@@ -1,0 +1,3 @@
+[submodule "mind3rd"]
+	path = mind3rd
+	url = git@github.com:felipenmoura/theWebMind.git
